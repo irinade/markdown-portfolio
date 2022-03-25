@@ -1,0 +1,4 @@
+* food
+* sleep
+* house
+* pets
